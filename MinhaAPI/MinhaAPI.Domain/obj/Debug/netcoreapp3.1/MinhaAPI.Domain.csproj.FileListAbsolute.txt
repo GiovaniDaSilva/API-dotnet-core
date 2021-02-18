@@ -1,0 +1,9 @@
+D:\Giovani\Projetos VB.NET\Curso\MInha API\MinhaAPI\MinhaAPI.Domain\bin\Debug\netcoreapp3.1\MinhaAPI.Domain.deps.json
+D:\Giovani\Projetos VB.NET\Curso\MInha API\MinhaAPI\MinhaAPI.Domain\bin\Debug\netcoreapp3.1\MinhaAPI.Domain.dll
+D:\Giovani\Projetos VB.NET\Curso\MInha API\MinhaAPI\MinhaAPI.Domain\bin\Debug\netcoreapp3.1\MinhaAPI.Domain.pdb
+D:\Giovani\Projetos VB.NET\Curso\MInha API\MinhaAPI\MinhaAPI.Domain\obj\Debug\netcoreapp3.1\MinhaAPI.Domain.AssemblyInfoInputs.cache
+D:\Giovani\Projetos VB.NET\Curso\MInha API\MinhaAPI\MinhaAPI.Domain\obj\Debug\netcoreapp3.1\MinhaAPI.Domain.AssemblyInfo.cs
+D:\Giovani\Projetos VB.NET\Curso\MInha API\MinhaAPI\MinhaAPI.Domain\obj\Debug\netcoreapp3.1\MinhaAPI.Domain.csproj.CoreCompileInputs.cache
+D:\Giovani\Projetos VB.NET\Curso\MInha API\MinhaAPI\MinhaAPI.Domain\obj\Debug\netcoreapp3.1\MinhaAPI.Domain.dll
+D:\Giovani\Projetos VB.NET\Curso\MInha API\MinhaAPI\MinhaAPI.Domain\obj\Debug\netcoreapp3.1\MinhaAPI.Domain.pdb
+D:\Giovani\Projetos VB.NET\Curso\MInha API\MinhaAPI\MinhaAPI.Domain\obj\Debug\netcoreapp3.1\MinhaAPI.Domain.csprojAssemblyReference.cache
